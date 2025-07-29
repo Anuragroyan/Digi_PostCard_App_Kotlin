@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630897872373",
+    "project_id": "digipostcard-8afdb",
+    "storage_bucket": "digipostcard-8afdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630897872373:android:f47c349951f100d04424bc",
+        "android_client_info": {
+          "package_name": "com.example.digipostcard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL290UHDs_yB8jX1w4VODUCuoieiov1N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
