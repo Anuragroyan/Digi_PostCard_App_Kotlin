@@ -1,6 +1,8 @@
-# 💌 Postcard App is a Flutter application that displays and manages postcards using Firebase. It supports complete CRUD operations, allowing users to create, view, update, and delete postcards while providing a simple and engaging interface.
+# 💌 Postcard App is a Flutter application that displays and manages postcards using Firebase.
+It supports complete CRUD operations, allowing users to create, view, update, and delete postcards while providing a simple and engaging interface.
 
 # ✨ Features
+
 * 💌 Postcard Display – Display postcards in an attractive and organized layout.
 * ➕ Create Postcards – Add and save new postcards.
 * 👀 View Postcards – Browse available postcards.
